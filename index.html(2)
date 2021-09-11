@@ -1,12 +1,14 @@
 <!doctype html> <!--index.html(2)-->
-<html><head>
+<html>
+<head>
  <meta charest="utf-8"/>
  <meta name="viewport" content="width=device-width,initial-sacle=1"/>
  <title> 개인 과제 리스트</title>
  <style>
    a:link{color:blue; text-decoration:none;}a:visited{color:purple; text-decoration:none;}
    a:hover{text-decoration:underline;}a:active{color:red; text-decoration:none;}
-  </style></head>
+  </style>
+  </head>
   <body>
     <h1>000 과제 리스트</h3>
     <ul><hr/>
