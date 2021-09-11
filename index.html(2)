@@ -1,7 +1,7 @@
-<!doctype html> <!--index.html1-->
+<!doctype html> <!--index.html(2)-->
 <html><head>
  <meta charest="utf-8"/>
- <meta name="viewport" contest="width=device-width,initial-sacle=1"/>
+ <meta name="viewport" content="width=device-width,initial-sacle=1"/>
  <title> 개인 과제 리스트</title>
  <style>
    a:link{color:blue; text-decoration:none;}a:visited{color:purple; text-decoration:none;}
@@ -20,4 +20,4 @@
         <li><a href=https://nohhyeon.github.io/java/hw1_2_2.html>변학도실습 desktop용(hw1_2_1.html)</a></li>
       </ol><hr/>
       <ul>
-        </body><html>
+        </body></html>
