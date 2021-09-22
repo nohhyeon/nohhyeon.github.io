@@ -1,0 +1,19 @@
+<!doctype html> <!--task1-->
+<html>
+<head>
+ <meta charest="utf-8"/>
+ <meta name="viewport" content="width=device-width,initial-sacle=1"/>
+ <title> 개인 과제 리스트</title>
+ <style>
+   a:link{color:blue; text-decoration:none;}a:visited{color:purple; text-decoration:none;}
+   a:hover{text-decoration:underline;}a:active{color:red; text-decoration:none;}
+  </style>
+  </head>
+  <body>
+    <h2>1000초를 분과 초로</h2>
+    <h3>소스 코드</h3>
+    <img src="https://user-images.githubusercontent.com/89899482/134293761-432270f6-0b0b-4086-9e65-5cebf715839e.JPG">  <!-- 소스코드 캡처 화면 -->
+    <h3>실행 예시</h3>
+    <img src="https://user-images.githubusercontent.com/89899482/134293788-7e3ad9e6-84fe-49f4-9215-ef6aed3c080c.JPG">  <!-- 이클립스 결과 캡쳐 화면 -->
+  </body>
+  </html>
