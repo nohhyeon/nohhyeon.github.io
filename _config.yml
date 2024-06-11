@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Hyeonsu’s development site"
+locale                   : "ko"
+title                    : "현수의 개발장"
 title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "hyeon su"
@@ -112,11 +112,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "현수의 개발장"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "개발과 공부 필요한 정보의 공간"
   location         : "Somewhere"
-  email            :
+  email            : "zzdnd6130@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
