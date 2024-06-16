@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "현수의 개발장"
+title                    : "현수의 개발 블로그"
 title_separator          : "-"
 subtitle                 : # "small positive action"
 name                     : "suDevelop"
@@ -110,9 +110,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "현수의 개발장"
+  name             : "현수의 개발 블로그"
   avatar           : "/assets/images/me.png"
   bio              : "개발과 공부 필요한 정보의 공간"
+  bio2             : "IOS, WebServer Developer💻"
   location         : "south-korea seoul"
   email            : "zzdnd6130@naver.com"
   links:
