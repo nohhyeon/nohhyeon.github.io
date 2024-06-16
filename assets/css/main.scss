@@ -3,7 +3,62 @@
 search: false
 ---
 
-@charset "utf-8";
-
+// Import existing styles
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+// General styles for mobile-first approach
+body {
+  font-family: Arial, sans-serif;
+}
+
+.post {
+  padding: 10px;
+}
+
+.main-content {
+  width: 100%;
+}
+
+.sidebar {
+  display: none;
+}
+
+// Media queries for larger screens
+@media (min-width: 600px) {
+  .post {
+    padding: 20px;
+  }
+
+  .main-content {
+    width: 75%;
+    float: left;
+  }
+
+  .sidebar {
+    display: block;
+    width: 25%;
+    float: right;
+  }
+}
+
+@media (min-width: 768px) {
+  .header-nav {
+    display: block;
+  }
+
+  .mobile-nav {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .header-nav {
+    display: none;
+  }
+
+  .mobile-nav {
+    display: block;
+  }
+}
