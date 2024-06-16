@@ -19,15 +19,15 @@ locale                   : "ko-KR"
 title                    : "현수의 개발장"
 title_separator          : "|"
 subtitle                 : # "small positive action"
-name                     : "suDevlope"
-description              : "IOS, WebServer Devloper💻"
+name                     : "suDevelop"
+description              : "IOS, WebServer Developer💻"
 url                      : "https://nohhyeon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/me.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : ture # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
