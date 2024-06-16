@@ -110,10 +110,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "현수의 개발 블로그"
+  name             : "SU-Develop-Blog"
   avatar           : "/assets/images/me.png"
   bio: |
-    개발과 공부, 필요한 정보의 공간
+    개발과 공부, 필요한 정보의 공간<br>
     IOS, WebServer Developer💻
   location         : "south-korea seoul"
   email            : "zzplokh@gmail.com"
