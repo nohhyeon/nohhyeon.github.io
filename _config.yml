@@ -323,4 +323,5 @@ defaults:
       share: true
       related: true
       show_date: ture
-      date_format : "%Y-%m-%d"
+
+date_format : "%Y-%m-%d"
