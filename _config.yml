@@ -35,7 +35,7 @@ copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    Korea-note            : "nohhyeon"
+  shortname              :  "nohhyeon"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
 
@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "현수의 개발장"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me1.jpg"
   bio              : "개발과 공부 필요한 정보의 공간"
   location         : "south-korea seoul"
   email            : "zzdnd6130@naver.com"
