@@ -112,8 +112,7 @@ analytics:
 author:
   name             : "현수의 개발 블로그"
   avatar           : "/assets/images/me.png"
-  bio              : "개발과 공부 필요한 정보의 공간"
-  bio2             : "IOS, WebServer Developer💻"
+  bio              : "개발과 공부 필요한 정보의 공간\n IOS, WebServer Developer💻"
   location         : "south-korea seoul"
   email            : "zzdnd6130@naver.com"
   links:
