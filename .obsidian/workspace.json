@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "bd0fae73b5677b11",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5c2a944263ac27e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8f376b687859692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-06-24-study1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "650d7bb8415b586c",
+    "type": "split",
+    "children": [
+      {
+        "id": "83d812de32f7c54e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae690c34c0dbf4b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3d24b43ad7af6fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14ddcce60d6ac254",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ab88a2c5e5526a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "83563757cdaddb8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c77d137a9012ba8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-06-24-study1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c45baab98ea68cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-06-24-study1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce34b6d765012b8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9132e72ab7d7b775",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-06-24-study1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ae690c34c0dbf4b3",
+  "lastOpenFiles": [
+    "_posts/2024-05-24-blog1.md",
+    "_posts/2024-03-25-MVC.md",
+    "_posts/2024-06-16-first.md",
+    "_posts/2024-06-24-study1.md",
+    "_posts/2023-11-10-DUI.md"
+  ]
+}
