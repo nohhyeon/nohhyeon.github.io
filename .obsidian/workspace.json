@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-25-MVC.md",
+                "file": "_posts/2024-06-24-ios_study3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-25-MVC.md",
+                "file": "_posts/2024-06-24-ios_study3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-25-MVC.md",
+                "file": "_posts/2024-06-24-ios_study3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-25-MVC.md"
+                "file": "_posts/2024-06-24-ios_study3.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e8f376b687859692",
+  "active": "ae690c34c0dbf4b3",
   "lastOpenFiles": [
-    "{{.md",
+    "_posts/2024-06-24-ios_study2.md",
+    "_posts/2024-06-24-ios_study3.md",
+    "_posts/2024-06-24-ios_study1.md",
     "_posts/2024-03-25-MVC.md",
+    "{{.md",
     "_posts/2024-05-30-jpa1.md",
     "_posts/2024-05-24-blog1.md",
     "_posts/2024-05-22-spring2.md",
