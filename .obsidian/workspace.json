@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-24-study1.md",
+                "file": "_posts/2024-05-30-jpa1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-24-study1.md",
+                "file": "_posts/2024-05-30-jpa1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-24-study1.md",
+                "file": "_posts/2024-05-30-jpa1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-24-study1.md"
+                "file": "_posts/2024-05-30-jpa1.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "ae690c34c0dbf4b3",
   "lastOpenFiles": [
+    "_posts/2024-06-04-jpa2.md",
+    "_posts/2024-05-30-jpa1.md",
+    "_posts/2024-06-18-Reactsetting.md",
+    "_posts/2024-06-24-xcode.md",
+    "_posts/2024-06-24-js1.md",
+    "_posts/2024-06-24-study1.md",
     "_posts/2024-05-24-blog1.md",
     "_posts/2024-03-25-MVC.md",
     "_posts/2024-06-16-first.md",
-    "_posts/2024-06-24-study1.md",
     "_posts/2023-11-10-DUI.md"
   ]
 }
