@@ -589,7 +589,7 @@ ne: &DEFAULT_NE
   search_label_text          :
   search_algolia_no_results  :
 ne-NP:
-  <<: *DEFAULT_NE
+  <<: *DEFAULT_NE s
 
 # Korean
 # ------

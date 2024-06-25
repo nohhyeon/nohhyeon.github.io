@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-09-spring1.md",
+                "file": "_posts/2024-06-25-ios-study6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-09-spring1.md",
+                "file": "_posts/2024-06-25-ios-study6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-09-spring1.md",
+                "file": "_posts/2024-06-25-ios-study6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-09-spring1.md"
+                "file": "_posts/2024-06-25-ios-study6.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ae690c34c0dbf4b3",
+  "active": "e8f376b687859692",
   "lastOpenFiles": [
+    "_posts/2024-05-09-spring1.md",
     "_posts/2024-06-14-study1.md",
     "_posts/2024-06-15-js1.md",
     "_posts/2024-06-17-xcode.md",
@@ -162,7 +163,6 @@
     "_posts/2024-05-30-jpa1.md",
     "_posts/2024-05-24-blog1.md",
     "_posts/2024-05-22-spring2.md",
-    "_posts/2024-05-09-spring1.md",
     "_posts/2024-02-22-oracle.md",
     "images/img.png",
     "_posts/2024-06-18-Reactsetting.md",
