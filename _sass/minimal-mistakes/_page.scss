@@ -27,7 +27,7 @@ body {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
-          flex-direction: column;
+  flex-direction: column;
 }
 
 .initial-content,
@@ -38,13 +38,13 @@ body {
 .page {
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    width: calc(100% - #{$right-sidebar-width-narrow}); // 영역 넓히기
+    padding-right: $right-sidebar-width-narrow / 4; // 패딩 줄이기
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    width: calc(100% - #{$right-sidebar-width}); // 영역 넓히기
+    padding-right: $right-sidebar-width / 4; // 패딩 줄이기
   }
 
   .page__inner-wrap {
@@ -93,22 +93,22 @@ body {
     border-bottom: 1px solid $border-color;
   }
 
-	h1, h2, h3, h4, h5, h6 {
-		.header-link {
-			position: relative;
-			left: 0.5em;
-			opacity: 0;
-			font-size: 0.8em;
-			-webkit-transition: opacity 0.2s ease-in-out 0.1s;
-			-moz-transition: opacity 0.2s ease-in-out 0.1s;
-			-o-transition: opacity 0.2s ease-in-out 0.1s;
-			transition: opacity 0.2s ease-in-out 0.1s;
-		}
+  h1, h2, h3, h4, h5, h6 {
+    .header-link {
+      position: relative;
+      left: 0.5em;
+      opacity: 0;
+      font-size: 0.8em;
+      -webkit-transition: opacity 0.2s ease-in-out 0.1s;
+      -moz-transition: opacity 0.2s ease-in-out 0.1s;
+      -o-transition: opacity 0.2s ease-in-out 0.1s;
+      transition: opacity 0.2s ease-in-out 0.1s;
+    }
 
-		&:hover .header-link {
-			opacity: 1;
-		}
-	}
+    &:hover .header-link {
+      opacity: 1;
+    }
+  }
 
   p,
   li,
@@ -378,182 +378,41 @@ body {
 .taxonomy__title {
   margin-bottom: 0.5em;
   color: $muted-text-color;
-}
-
-.taxonomy__count {
-  color: $muted-text-color;
-}
-
-.taxonomy__index {
-  display: grid;
-  grid-column-gap: 2em;
-  grid-template-columns: repeat(2, 1fr);
-  margin: 1.414em 0;
-  padding: 0;
-  font-size: 0.75em;
-  list-style: none;
-
-  @include breakpoint($large) {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  a {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    padding: 0.25em 0;
-    -webkit-box-pack: justify;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    color: inherit;
-    text-decoration: none;
-    border-bottom: 1px solid $border-color;
-  }
-}
-
-.back-to-top {
-  display: block;
-  clear: both;
-  color: $muted-text-color;
-  font-size: 0.6em;
-  text-transform: uppercase;
-  text-align: right;
-  text-decoration: none;
-}
-
-/*
-   Comments
-   ========================================================================== */
-
-.page__comments {
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-  width: 100%;
-  clear: both;
-}
-
-.page__comments-title {
-  margin-top: 2rem;
-  margin-bottom: 10px;
-  padding-top: 2rem;
   font-size: $type-size-6;
-  border-top: 1px solid $border-color;
   text-transform: uppercase;
 }
-
-.page__comments-form {
-  -webkit-transition: $global-transition;
-  transition: $global-transition;
-
-  &.disabled {
-    input,
-    button,
-    textarea,
-    label {
-      pointer-events: none;
-      cursor: not-allowed;
-      filter: alpha(opacity=65);
-      box-shadow: none;
-      opacity: 0.65;
-    }
-  }
-}
-
-.comment {
-  @include clearfix();
-  margin: 1em 0;
-
-  &:not(:last-child) {
-    border-bottom: 1px solid $border-color;
-  }
-}
-
-.comment__avatar-wrapper {
-  float: left;
-  width: 60px;
-  height: 60px;
-
-  @include breakpoint($large) {
-    width: 100px;
-    height: 100px;
-  }
-}
-
-.comment__avatar {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-
-  @include breakpoint($large) {
-    width: 80px;
-    height: 80px;
-    padding: 5px;
-    border: 1px solid $border-color;
-  }
-}
-
-.comment__content-wrapper {
-  float: right;
-  width: calc(100% - 60px);
-
-  @include breakpoint($large) {
-    width: calc(100% - 100px);
-  }
-}
-
-.comment__author {
-  margin: 0;
-
-  a {
-    text-decoration: none;
-  }
-}
-
-.comment__date {
-  @extend .page__meta;
-  margin: 0;
-
-  a {
-    text-decoration: none;
-  }
-}
-
-/*
-   Related
-   ========================================================================== */
 
 .page__related {
-  @include clearfix();
+  @include clearfix;
   float: left;
   margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
 
   @include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    width: calc(100% - #{$right-sidebar-width-narrow}); // 영역 넓히기
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-  }
-
-  a {
-    color: inherit;
-    text-decoration: none;
+    width: calc(100% - #{$right-sidebar-width}); // 영역 넓히기
   }
 }
 
 .page__related-title {
-  margin-bottom: 10px;
-  font-size: $type-size-6;
-  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  line-height: 1.2;
 }
 
-/*
-   Wide Pages
-   ========================================================================== */
+.page__related-link {
+  display: block;
+  margin-bottom: 0.5em;
+  color: $link-color;
+
+  &:hover {
+    color: $link-color-hover;
+  }
+}
 
 .wide {
   .page {
