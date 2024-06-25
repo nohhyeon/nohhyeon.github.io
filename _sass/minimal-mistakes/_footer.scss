@@ -1,5 +1,5 @@
 /* ==========================================================================
-   푸터
+   FOOTER
    ========================================================================== */
 
 .page__footer {
@@ -10,23 +10,22 @@
   width: 100%;
   margin-top: 3em;
   color: $muted-text-color;
+  -webkit-animation: $intro-transition;
+  animation: $intro-transition;
+  -webkit-animation-delay: 0.45s;
+  animation-delay: 0.45s;
   background-color: $footer-background-color;
-  padding: 2em 1em; /* 간격을 조정하여 푸터의 패딩을 설정합니다 */
-
-  @include breakpoint($x-large) {
-    max-width: $x-large;
-    margin-left: auto;
-    margin-right: auto;
-  }
 
   footer {
     @include clearfix;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 2em;
     max-width: 100%;
-    padding: 0;
+    padding: 0 1em 2em;
 
     @include breakpoint($x-large) {
-      padding: 0 1em 2em;
+      max-width: $x-large;
     }
   }
 
@@ -50,7 +49,6 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
-  color: $muted-text-color; /* 텍스트 색상을 일관되게 설정합니다 */
 }
 
 .page__footer-follow {
@@ -62,16 +60,16 @@
 
   li {
     display: inline-block;
-    padding: 5px 10px; /* 간격을 조정하여 리스트 아이템의 패딩을 설정합니다 */
+    padding-top: 5px;
+    padding-bottom: 5px;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     text-transform: uppercase;
-    white-space: nowrap; /* 링크가 여러 줄로 줄지 않도록 설정합니다 */
   }
 
   li + li:before {
-    content: "·"; /* 리스트 아이템 사이에 점을 넣어 구분합니다 */
-    padding: 0 5px;
+    content: "";
+    padding-right: 5px;
   }
 
   a {
