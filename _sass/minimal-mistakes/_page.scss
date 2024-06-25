@@ -70,7 +70,8 @@ body {
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  line-height: 1.2; /* 행 간격 조정 */
+  font-size: $type-size-3; /* 페이지 제목 크기 늘리기 */
 
   a {
     color: $text-color;
