@@ -8,13 +8,13 @@
 
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    width: calc(100% - #{$right-sidebar-width-narrow}); // 영역 넓히기
+    padding-right: $right-sidebar-width-narrow / 4; // 패딩 줄이기
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    width: calc(100% - #{$right-sidebar-width}); // 영역 넓히기
+    padding-right: $right-sidebar-width / 4; // 패딩 줄이기
   }
 }
 
@@ -442,7 +442,7 @@
    Wide Pages
    ========================================================================== */
 
-  .wide {
+.wide {
   .archive {
     @include breakpoint($large) {
       padding-right: 0;
@@ -457,7 +457,7 @@
 /* Place inside a single layout */
 
 .layout--single {
-	.feature__wrapper {
-		display: inline-block;
-	}
+  .feature__wrapper {
+    display: inline-block;
+  }
 }
