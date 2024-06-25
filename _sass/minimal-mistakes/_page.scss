@@ -391,11 +391,11 @@ body {
   border-top: 1px solid $border-color;
 
   @include breakpoint($large) {
-    width: calc(100% - #{$right-sidebar-width-narrow}); // 영역 넓히기
+    width: calc(100% - #{$right-sidebar-width-narrow}); // 오른쪽 사이드바 너비만큼 영역 축소
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width}); // 영역 넓히기
+    width: calc(100% - #{$right-sidebar-width}); // 오른쪽 사이드바 너비만큼 영역 축소
   }
 }
 
