@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-17-xcode.md",
+                "file": "_posts/Info/2024-06-16-first.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-17-xcode.md",
+                "file": "_posts/Info/2024-06-16-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-17-xcode.md",
+                "file": "_posts/Info/2024-06-16-first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-17-xcode.md"
+                "file": "_posts/Info/2024-06-16-first.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ae690c34c0dbf4b3",
+  "active": "e8f376b687859692",
   "lastOpenFiles": [
-    "_posts/2024-06-16-first.md",
+    "_posts/Tool/2024-06-17-xcode.md",
+    "_posts/Tool/2024-06-18-Reactsetting.md",
+    "_posts/Info/2024-06-16-first.md",
     "_posts/Tool",
-    "_posts/Web/2024-06-18-Reactsetting.md",
-    "_posts/2024-06-17-xcode.md",
     "_posts/Info/2024-05-24-blog1.md",
     "_posts/Info",
     "_posts/Swift/2024-06-20-swift_study1.md",
