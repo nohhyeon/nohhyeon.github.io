@@ -1,9 +1,7 @@
 ---
-
-title : "ios 데이터 타입"
-categories : study
-tag : [swift, ios]
-
+title: ios 데이터 타입
+categories: study
+tags: swift
 ---
 
 ios 데이터 타입

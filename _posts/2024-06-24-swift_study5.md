@@ -1,9 +1,7 @@
 ---
-
-title : "swift 함수-2"
-categories : study
-tag : [swift, ios]
-
+title: swift 함수-2
+categories: study
+tags: swift
 ---
 swift 함수-2
 ## 매개변수 기본 값

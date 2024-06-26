@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-25-ios-study6.md",
+                "file": "_posts/2024-06-14-swift-study0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-25-ios-study6.md",
+                "file": "_posts/2024-06-14-swift-study0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-25-ios-study6.md",
+                "file": "_posts/2024-06-14-swift-study0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-25-ios-study6.md"
+                "file": "_posts/2024-06-14-swift-study0.md"
               }
             }
           }
@@ -146,18 +146,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e8f376b687859692",
+  "active": "ae690c34c0dbf4b3",
   "lastOpenFiles": [
+    "_posts/2024-06-25-swift-study6.md",
+    "_posts/무제 파일.md",
+    "_posts/2024-06-24-swift_study5.md",
+    "_posts/2024-06-23-swift_study4.md",
+    "_posts/2024-06-22-swift_study3.md",
+    "_posts/2024-06-21-swift_study2.md",
+    "_posts/2024-06-20-swift_study1.md",
     "_posts/2024-05-09-spring1.md",
-    "_posts/2024-06-14-study1.md",
+    "_posts/2024-06-14-swift-study0.md",
     "_posts/2024-06-15-js1.md",
     "_posts/2024-06-17-xcode.md",
-    "_posts/2024-06-21-ios_study2.md",
-    "_posts/2024-06-25-ios-study6.md",
-    "_posts/2024-06-24-ios_study5.md",
-    "_posts/2024-06-23-ios_study4.md",
-    "_posts/2024-06-22-ios_study3.md",
-    "_posts/2024-06-20-ios_study1.md",
     "_posts/2024-03-25-MVC.md",
     "{{.md",
     "_posts/2024-05-30-jpa1.md",

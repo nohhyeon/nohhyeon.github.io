@@ -1,9 +1,7 @@
 ---
-
-title : "swift 함수-1"
-categories : study
-tag : [swift, ios]
-
+title: swift 함수-1
+categories: study
+tags: swift
 ---
 swift 함수-1
 ## 함수의 선언

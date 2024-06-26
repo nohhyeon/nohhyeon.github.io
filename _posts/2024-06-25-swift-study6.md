@@ -1,9 +1,7 @@
 ---
 title: if-else 구문
 categories: study
-tags:
-  - swift
-  - ios
+tags: swift
 ---
 ## if-else 구문
 

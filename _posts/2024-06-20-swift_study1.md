@@ -1,9 +1,7 @@
 ---
-
-title : "swift 기초 개념 1"
-categories : study
-tag : [swift, ios]
-
+title: swift 기초 개념 1
+categories: study
+tags: swift
 ---
 swift 기초 개념 1
 

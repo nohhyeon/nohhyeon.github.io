@@ -2,7 +2,7 @@
 
 title : "스위프트 특수 문자/이스케이프 시퀀스"
 categories : study
-tag : ios
+tag : swift
 
 ---
 스위프트 특수 문자/이스케이프 시퀀스
