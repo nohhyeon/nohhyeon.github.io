@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8f376b687859692",
+            "id": "f8a91702372c6d33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/ios/무제 파일.md",
+                "file": "_posts/codingTEST/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/ios/무제 파일.md",
+                "file": "_posts/codingTEST/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/ios/무제 파일.md",
+                "file": "_posts/codingTEST/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/ios/무제 파일.md"
+                "file": "_posts/codingTEST/무제 파일.md"
               }
             }
           }
@@ -146,9 +146,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e8f376b687859692",
+  "active": "f8a91702372c6d33",
   "lastOpenFiles": [
+    "스크린샷 2024-06-27 오후 8.27.23.png",
+    "스크린샷 2024-06-27 오후 8.06.18.png",
+    "스크린샷 2024-06-27 오후 8.02.47.png",
+    "스크린샷 2024-06-27 오후 6.22.51.png",
+    "스크린샷 2024-06-27 오후 5.40.35.png",
+    "_posts/ios/2024-06-26-ios-study1.md",
+    "2024-06-27.md",
+    "무제 파일.canvas",
+    "_posts/codingTEST/무제 파일.md",
     "_posts/Tool/2024-06-17-xcode.md",
+    "_posts/codingTEST",
     "_posts/ios/무제 파일.md",
     "_posts/Info/2024-06-16-first.md",
     "_posts/Tool/2024-06-18-Reactsetting.md",
@@ -163,7 +173,6 @@
     "_posts/Web",
     "_posts/Project/2024-03-25-MVC.md",
     "_posts/Project/2023-11-10-DUI.md",
-    "_posts/ios/2024-06-26-ios-study1.md",
     "_posts/Project",
     "_posts/Swift",
     "_posts/ios",
