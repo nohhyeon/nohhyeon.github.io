@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/ios/2024-06-26-ios-study1.md",
+                "file": "_posts/codingTEST/2024-06-21-coding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/ios/2024-06-26-ios-study1.md",
+                "file": "_posts/codingTEST/2024-06-21-coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/ios/2024-06-26-ios-study1.md",
+                "file": "_posts/codingTEST/2024-06-21-coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/ios/2024-06-26-ios-study1.md"
+                "file": "_posts/codingTEST/2024-06-21-coding.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d1c35a90156e7f89",
+  "active": "ae690c34c0dbf4b3",
   "lastOpenFiles": [
-    "_posts/codingTEST/2024-06-29-codingTest3.md",
-    "_posts/codingTEST/무제 파일.md",
     "_posts/codingTEST/2024-06-28-codingTest1.md",
+    "_posts/codingTEST/무제 파일 1.md",
+    "_posts/ios/2024-06-26-ios-study1.md",
+    "_posts/codingTEST/2024-06-29-codingTest3.md",
+    "_posts/codingTEST/2024-06-21-coding.md",
     "_posts/codingTEST/2024-06-27-codingTest.md",
     "images/2024-06-26-codingTest/image-2.png",
     "images/2024-06-26-codingTest/image-4.png",
@@ -164,7 +166,6 @@
     "images/2024-03-25-MVC/clip_image002.jpg",
     "images/2024-06-26-codingTest",
     "스크린샷 2024-06-27 오후 8.27.23.png",
-    "_posts/ios/2024-06-26-ios-study1.md",
     "2024-06-27.md",
     "무제 파일.canvas",
     "_posts/Tool/2024-06-17-xcode.md",
@@ -192,7 +193,6 @@
     "_posts/Swift/2024-06-22-swift_study3.md",
     "_posts/Swift/2024-06-21-swift_study2.md",
     "_posts/Web/2024-06-15-js1.md",
-    "{{.md",
-    "_posts/Web/2024-05-30-jpa1.md"
+    "{{.md"
   ]
 }
