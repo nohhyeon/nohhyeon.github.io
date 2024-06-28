@@ -10,7 +10,7 @@ tags:
 
 
 
-1. **변수와 자료형**:
+1.**변수와 자료형**:
 ```java
 // 다음 코드의 출력 결과는 무엇인가?
 public class Main {
@@ -27,7 +27,7 @@ public class Main {
 **풀이**: int 타입 변수 a와 double 타입 변수 b를 더할 때 a가 double로 자동 변환되어 결과는 double 타입인 9.5가 됩니다.
 
 
-2. **조건문**:
+2.**조건문**:
 ```java
 // 다음 조건문이 참이 되도록 x에 어떤 값을 할당해야 하는가?
 int x = ???;
@@ -40,7 +40,7 @@ if (x > 10 && x < 20) {
 **풀이**: x는 10보다 크고 20보다 작아야 하므로, 예를 들어 11, 15, 19 등이 가능합니다.
 
 
-3. **반복문**:
+3.**반복문**:
 ```java
 // 1부터 100까지의 합을 계산하는 코드를 작성하시오.
 public class Main {
@@ -58,7 +58,7 @@ public class Main {
 **풀이**: for 루프를 사용하여 1부터 100까지의 숫자를 순회하며 sum에 더해주면 됩니다. 최종적으로 sum에는 1부터 100까지의 합이 저장되어 5050이 출력됩니다.
 
 
-4. **함수**:
+4.**함수**:
 ```java
 // 두 정수를 받아서 더한 결과를 반환하는 함수를 작성하시오.
 public int add(int a, int b) {
@@ -68,8 +68,7 @@ public int add(int a, int b) {
 **풀이**: 함수 add는 두 개의 int 값을 입력받아 그 합을 반환합니다.
 
 
-
-5. **클래스와 객체**:
+5.**클래스와 객체**:
 ```java
 // 다음 클래스의 인스턴스를 생성하고 메서드를 호출하시오.
 class Dog {
@@ -93,7 +92,7 @@ public class Main {
 
 
 
-6. **상속**:
+6.**상속**:
 ```java
 // 다음 상속 관계에서 자식 클래스의 생성자를 작성하시오.
 class Animal {
@@ -112,7 +111,7 @@ class Dog extends Animal {
 **풀이**: Dog 클래스의 생성자는 Animal 클래스의 생성자를 호출하기 위해 super(name)을 사용합니다.
 
 
-7. **다형성**:
+7.**다형성**:
 ```java
 // 다음 상속 관계에서 자식 클래스의 생성자를 작성하시오.
 class Animal {
@@ -134,7 +133,7 @@ class Dog extends Animal {
 
 
 
-8. **캡슐화**:
+8.**캡슐화**:
 ```java
 // 다음 코드를 완성하시오.
 interface Animal {
@@ -166,7 +165,7 @@ public class Main {
 
 
 
-9. **인터페이스**:
+9.**인터페이스**:
 ```java
 // 다음 인터페이스를 구현하는 클래스를 작성하시오.
 interface Animal {
@@ -187,7 +186,7 @@ class Dog implements Animal {
 **풀이**: Animal 인터페이스를 구현한 Dog 클래스는 eat와 sleep 메서드를 구현합니다.
 
 
-10. **예외 처리**:
+10.**예외 처리**:
 ```java
 // 다음 코드에서 발생하는 예외를 처리하시오.
 public class Main {
@@ -313,7 +312,7 @@ CREATE TABLE Departments (
 
   
 
-1. **배열의 합**:
+1.**배열의 합**:
 ```java
 // 주어진 정수 배열의 합을 구하는 함수를 작성하시오.
 public int sumArray(int[] array) {
@@ -327,7 +326,7 @@ public int sumArray(int[] array) {
 **풀이**: 배열을 순회하면서 각 요소를 더하여 sum에 저장하고, 최종적으로 sum을 반환합니다.
 
 
-2. **문자열 뒤집기**:
+2.**문자열 뒤집기**:
 ```java
 // 주어진 문자열을 뒤집는 함수를 작성하시오.
 public String reverseString(String str) {
@@ -337,7 +336,7 @@ public String reverseString(String str) {
 **풀이**: StringBuilder를 사용하여 문자열을 뒤집고, 다시 문자열로 변환하여 반환합니다.
 
   
-3. **피보나치 수열**:
+3.**피보나치 수열**:
 ```java
 // n번째 피보나치 수를 구하는 재귀함수를 작성하시오.
 public int fibonacci(int n) {
@@ -350,7 +349,7 @@ public int fibonacci(int n) {
 **풀이**: 피보나치 수열의 재귀적 정의를 그대로 구현하여 n번째 피보나치 수를 반환합니다.
 
   
-4. **이진 탐색**:
+4.**이진 탐색**:
 ```java
 // 정렬된 배열에서 특정 값을 찾는 이진 탐색 함수를 작성하시오.
 public int binarySearch(int[] array, int target) {
@@ -372,7 +371,7 @@ public int binarySearch(int[] array, int target) {
 **풀이**: 이진 탐색 알고리즘을 사용하여 정렬된 배열에서 target 값을 찾고, 인덱스를 반환합니다. 찾지 못하면 -1을 반환합니다.
 
 
-5. **정렬**:
+5.**정렬**:
 ```java
 // 버블 정렬을 사용하여 정수 배열을 정렬하는 함수를 작성하시오.
 public void bubbleSort(int[] array) {
@@ -392,7 +391,7 @@ public void bubbleSort(int[] array) {
 
 
 
-6. **최소 공배수**:
+6.**최소 공배수**:
 ```java
 // 두 수의 최소 공배수를 구하는 함수를 작성하시오.
 public int lcm(int a, int b) {
@@ -410,7 +409,7 @@ public int gcd(int a, int b) {
 
 
 
-7. **배낭 문제**:
+7.**배낭 문제**:
 ```java
 // 0/1 배낭 문제를 해결하는 동적 계획법 알고리즘을 작성하시오.
 public int knapsack(int[] weights, int[] values, int W) {
@@ -432,7 +431,7 @@ public int knapsack(int[] weights, int[] values, int W) {
 
 
 
-8. **그래프 탐색 - DFS**:
+8.**그래프 탐색 - DFS**:
 ```java
 // 깊이 우선 탐색(DFS) 알고리즘을 작성하시오.
 public void dfs(int v, boolean[] visited, List<List<Integer>> adjList) {
@@ -449,7 +448,7 @@ public void dfs(int v, boolean[] visited, List<List<Integer>> adjList) {
 
 
 
-9. **그래프 탐색 - BFS**:
+9.**그래프 탐색 - BFS**:
 ```java
 // 너비 우선 탐색(BFS) 알고리즘을 작성하시오.
 public void bfs(int start, List<List<Integer>> adjList) {
@@ -473,7 +472,7 @@ public void bfs(int start, List<List<Integer>> adjList) {
 
 
 
-10. **최단 경로 알고리즘**:
+10.**최단 경로 알고리즘**:
 ```java
 // 다익스트라 알고리즘을 사용하여 단일 출발지 최단 경로를 구하는 코드를 작성하시오.
 public int[] dijkstra(int[][] graph, int src) {
