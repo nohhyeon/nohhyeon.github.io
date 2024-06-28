@@ -68,6 +68,7 @@ public int add(int a, int b) {
 **풀이**: 함수 add는 두 개의 int 값을 입력받아 그 합을 반환합니다.
 
 
+
 5. **클래스와 객체**:
 ```java
 // 다음 클래스의 인스턴스를 생성하고 메서드를 호출하시오.
@@ -89,6 +90,7 @@ public class Main {
 **정답**: Buddy says: Woof!
 
 **풀이**: Dog 클래스의 인스턴스를 생성하고 name을 “Buddy”로 설정한 후 bark 메서드를 호출하면 “Buddy says: Woof!“가 출력됩니다.
+
 
 
 6. **상속**:
@@ -131,6 +133,7 @@ class Dog extends Animal {
 **풀이**: Animal 인터페이스를 구현한 Dog와 Cat 클래스의 인스턴스를 생성하고 각각의 makeSound 메서드를 호출하면, 다형성에 의해 적절한 메서드가 실행됩니다.
 
 
+
 8. **캡슐화**:
 ```java
 // 다음 코드를 완성하시오.
@@ -160,6 +163,7 @@ public class Main {
 }
 ```
 **풀이**: x 변수를 private으로 선언하고, getter와 setter 메서드를 통해 접근하도록 하여 캡슐화합니다.
+
 
 
 9. **인터페이스**:
@@ -386,7 +390,8 @@ public void bubbleSort(int[] array) {
 ```
 **풀이**: 버블 정렬 알고리즘을 사용하여 배열을 정렬합니다. 배열의 각 요소를 순회하며 인접한 두 요소를 비교하고, 필요시 교환합니다.
 
-  
+
+
 6. **최소 공배수**:
 ```java
 // 두 수의 최소 공배수를 구하는 함수를 작성하시오.
@@ -403,7 +408,8 @@ public int gcd(int a, int b) {
 ```
 **풀이**: gcd 함수를 사용하여 최대 공약수를 구한 후, 이를 이용하여 최소 공배수를 계산합니다.
 
-  
+
+
 7. **배낭 문제**:
 ```java
 // 0/1 배낭 문제를 해결하는 동적 계획법 알고리즘을 작성하시오.
@@ -425,6 +431,7 @@ public int knapsack(int[] weights, int[] values, int W) {
 **풀이**: 동적 계획법을 사용하여 dp 배열을 채워나가며 배낭의 최대 가치를 계산합니다.
 
 
+
 8. **그래프 탐색 - DFS**:
 ```java
 // 깊이 우선 탐색(DFS) 알고리즘을 작성하시오.
@@ -439,7 +446,8 @@ public void dfs(int v, boolean[] visited, List<List<Integer>> adjList) {
 }
 ```
 **풀이**: 재귀 호출을 사용하여 visited 배열을 업데이트하며 그래프를 깊이 우선 탐색합니다.
- 
+
+
 
 9. **그래프 탐색 - BFS**:
 ```java
@@ -462,6 +470,7 @@ public void bfs(int start, List<List<Integer>> adjList) {
 }
 ```
 **풀이**: 큐를 사용하여 visited 배열을 업데이트하며 그래프를 너비 우선 탐색합니다.
+
 
 
 10. **최단 경로 알고리즘**:

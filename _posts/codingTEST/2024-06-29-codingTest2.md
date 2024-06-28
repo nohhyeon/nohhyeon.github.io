@@ -8,7 +8,7 @@ tags:
 ------------------------------------------
 **기본 개념**
 
-  
+
 
 1. **상수와 리터럴**:
 ```java
@@ -24,6 +24,7 @@ public class Main {
 **정답**: 컴파일 오류
 
 **풀이**: x는 final로 선언되어 값을 변경할 수 없습니다. 따라서 x = 20;에서 컴파일 오류가 발생합니다.
+
 
 
 2. **메서드 오버로딩**:
@@ -46,6 +47,7 @@ public class Main {
 }
 ```
 **풀이**: 메서드 이름은 같지만 매개변수의 타입이 다르면 메서드 오버로딩이 됩니다. add(int a, int b)와 add(double a, double b)는 오버로딩된 메서드입니다.
+
 
 
 3. **추상 클래스**:
@@ -75,7 +77,8 @@ public class Main {
 }
 ```
 **풀이**: Shape 추상 클래스와 이를 상속하는 Circle 클래스에서 area 메서드를 구현합니다.
-  
+
+
 
 4. **인터페이스 상속**:
 ```java
@@ -99,6 +102,7 @@ public class Main {
 }
 ```
 **풀이**: Printable 인터페이스를 구현한 Document 클래스에서 print 메서드를 구현합니다.
+
 
 
 5. **스레드**:
@@ -130,7 +134,7 @@ public class Main {
 
 **데이터베이스 (DB)**
 
-  
+
 
 1. **INNER JOIN**:
 ```sql
@@ -140,7 +144,7 @@ FROM Employees
 INNER JOIN Departments ON Employees.department_id = Departments.id;
 ```
 **풀이**: INNER JOIN을 사용하여 Employees와 Departments 테이블을 연결하고 필요한 열을 조회합니다.
-  
+
 
 2. **LEFT JOIN**:
 ```sql
@@ -151,7 +155,7 @@ LEFT JOIN Departments ON Employees.department_id = Departments.id;
 ```
 **풀이**: LEFT JOIN을 사용하여 Employees 테이블의 모든 행과 일치하는 Departments 테이블의 행을 조회합니다. 부서가 없는 직원도 포함됩니다.
 
-  
+
 3. **그룹화와 집계 함수**
 ```sql
 -- Employees 테이블에서 부서별 최대 급여를 조회하시오.
@@ -161,7 +165,7 @@ GROUP BY department;
 ```
 **풀이**: GROUP BY와 MAX 함수를 사용하여 각 부서별 최대 급여를 계산합니다.
 
-  
+
 4. **HAVING 절**:
 ```sql
 -- Employees 테이블에서 직원이 2명 이상인 부서의 평균 급여를 조회하시오.
@@ -172,7 +176,7 @@ HAVING COUNT(*) >= 2;
 ```
 **풀이**: HAVING 절을 사용하여 직원이 2명 이상인 부서만 필터링하여 평균 급여를 계산합니다.
 
-  
+
 5. **서브쿼리와 IN 연산자**:
 ```sql
 -- 급여가 부서 평균 급여보다 높은 직원의 이름과 급여를 조회하시오.
@@ -186,11 +190,11 @@ WHERE salary > (
 ```
 **풀이**: 서브쿼리를 사용하여 부서별 평균 급여를 계산하고, 이를 이용하여 급여가 부서 평균 급여보다 높은 직원들을 조회합니다.
 
-  
+
 
 **알고리즘**
 
-  
+
 
 1. **팰린드롬 검사**:
 ```java
@@ -208,6 +212,7 @@ public boolean isPalindrome(String s) {
 }
 ```
 **풀이**: 문자열의 시작과 끝에서부터 문자를 비교하여 팰린드롬 여부를 확인합니다.
+
 
 
 2. **두 배열의 교집합**:
@@ -235,6 +240,7 @@ public int[] intersection(int[] nums1, int[] nums2) {
 **풀이**: 두 배열의 요소를 집합으로 변환하여 교집합을 구하고, 이를 배열로 반환합니다.
 
 
+
 3. **행렬의 회전**:
 ```java
 // 주어진 NxN 행렬을 시계방향으로 90도 회전하는 함수를 작성하시오.
@@ -252,7 +258,8 @@ public void rotate(int[][] matrix) {
 }
 ```
 **풀이**: 네 개의 값을 교환하여 행렬을 시계방향으로 90도 회전시킵니다.
-  
+
+
 
 4. **중복 문자 제거**:
 ```java
@@ -269,6 +276,7 @@ public String removeDuplicates(String s) {
   }
 ```
 **풀이**: 집합을 사용하여 중복 문자를 필터링하고, 처음 등장하는 순서대로 문자열을 작성합니다.
+
 
 
 5. **올바른 괄호**:
