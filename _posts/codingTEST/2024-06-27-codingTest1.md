@@ -1,5 +1,5 @@
 ---
-title: codingTest 문제
+title: codingTest 문제(기초)
 categories: codingTest
 tags:
   - codingTest
