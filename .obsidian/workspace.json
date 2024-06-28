@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c2a944263ac27e",
+        "id": "39754c60c4903741",
         "type": "tabs",
         "children": [
           {
-            "id": "f8a91702372c6d33",
+            "id": "d1c35a90156e7f89",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/2024-06-26-codingTest/image-1.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/2024-06-26-codingTest/image-1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/2024-06-26-codingTest/image-1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "images/2024-06-26-codingTest/image-1.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,21 +138,59 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f8a91702372c6d33",
+  "floating": {
+    "id": "cd314237859256bb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b8c2eb8cbf29ad5c",
+        "type": "window",
+        "children": [
+          {
+            "id": "ac48be4984d7ea1e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "470f74c032833c4c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_posts/codingTEST/2024-06-27-codingTest1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2469,
+        "y": 315,
+        "width": 680,
+        "height": 717,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ae690c34c0dbf4b3",
   "lastOpenFiles": [
-    "images/2024-06-26-codingTest/image-2.png",
     "_posts/codingTEST/2024-06-27-codingTest1.md",
+    "_posts/codingTEST/2024-06-28-codingTest2.md",
+    "images/2024-06-26-codingTest/imagurAPIKey.png",
+    "_posts/Project/2023-11-10-DUI.md",
+    "images/2024-06-26-codingTest/image-1.png",
+    "images/2024-06-26-codingTest/image-2.png",
     "images/2024-03-25-MVC/image-20240616204519492.png",
     "images/2024-03-25-MVC/clip_image002.jpg",
-    "images/2024-06-26-codingTest/image-1.png",
     "images/2024-06-26-codingTest/image-5.png",
     "images/2024-06-26-codingTest/image-4.png",
     "images/2024-06-26-codingTest/image-3.png",
     "images/2024-06-26-codingTest",
-    "_posts/codingTEST/2024-06-28-codingTest2.md",
     "스크린샷 2024-06-27 오후 8.27.23.png",
     "스크린샷 2024-06-27 오후 8.06.18.png",
-    "스크린샷 2024-06-27 오후 8.02.47.png",
     "_posts/ios/2024-06-26-ios-study1.md",
     "2024-06-27.md",
     "무제 파일.canvas",
@@ -177,7 +209,6 @@
     "_posts/Web/2024-05-09-spring1.md",
     "_posts/Web",
     "_posts/Project/2024-03-25-MVC.md",
-    "_posts/Project/2023-11-10-DUI.md",
     "_posts/Project",
     "_posts/Swift",
     "_posts/ios",
