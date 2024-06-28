@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/codingTEST/2024-06-29-codingTest2.md",
+                "file": "_posts/codingTEST/2024-06-29-codingTest3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/codingTEST/2024-06-29-codingTest2.md",
+                "file": "_posts/codingTEST/2024-06-29-codingTest3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/codingTEST/2024-06-29-codingTest2.md",
+                "file": "_posts/codingTEST/2024-06-29-codingTest3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/codingTEST/2024-06-29-codingTest2.md"
+                "file": "_posts/codingTEST/2024-06-29-codingTest3.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "d1c35a90156e7f89",
   "lastOpenFiles": [
+    "_posts/codingTEST/무제 파일.md",
     "_posts/codingTEST/2024-06-28-codingTest1.md",
-    "_posts/codingTEST/2024-06-29-codingTest2.md",
+    "_posts/codingTEST/2024-06-29-codingTest3.md",
     "_posts/codingTEST/2024-06-27-codingTest.md",
     "images/2024-06-26-codingTest/image-2.png",
     "images/2024-06-26-codingTest/image-4.png",
@@ -192,7 +193,6 @@
     "_posts/Swift/2024-06-21-swift_study2.md",
     "_posts/Web/2024-06-15-js1.md",
     "{{.md",
-    "_posts/Web/2024-05-30-jpa1.md",
-    "_posts/Web/2024-06-04-jpa2.md"
+    "_posts/Web/2024-05-30-jpa1.md"
   ]
 }
