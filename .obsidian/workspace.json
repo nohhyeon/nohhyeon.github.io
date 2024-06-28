@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/codingTEST/2024-06-27-codingTest1.md",
+                "file": "_posts/codingTEST/2024-06-29-codingTest2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/codingTEST/2024-06-27-codingTest1.md",
+                "file": "_posts/codingTEST/2024-06-29-codingTest2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/codingTEST/2024-06-27-codingTest1.md",
+                "file": "_posts/codingTEST/2024-06-29-codingTest2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/codingTEST/2024-06-27-codingTest1.md"
+                "file": "_posts/codingTEST/2024-06-29-codingTest2.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "d1c35a90156e7f89",
   "lastOpenFiles": [
+    "_posts/codingTEST/2024-06-27-codingTest.md",
+    "_posts/codingTEST/2024-06-28-codingTest1.md",
+    "_posts/codingTEST/2024-06-29-codingTest2.md",
     "images/2024-06-26-codingTest/image-2.png",
     "images/2024-06-26-codingTest/image-4.png",
     "images/2024-06-26-codingTest/image-3.png",
     "images/2024-06-26-codingTest/image-1.png",
     "images/2024-06-26-codingTest/image-5.png",
-    "_posts/codingTEST/2024-06-27-codingTest1.md",
     "images/2024-03-25-MVC/image-20240616204519492.png",
     "images/2024-03-25-MVC/image-20240616204525798.png",
-    "_posts/codingTEST/2024-06-28-codingTest2.md",
     "images/2024-06-26-codingTest/imagurAPIKey.png",
     "_posts/Project/2023-11-10-DUI.md",
     "images/2024-03-25-MVC/clip_image002.jpg",
