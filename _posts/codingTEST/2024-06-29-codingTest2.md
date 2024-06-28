@@ -10,7 +10,7 @@ tags:
 
 
 
-1. **상수와 리터럴**:
+1.**상수와 리터럴**:
 ```java
 // 다음 코드의 출력 결과는 무엇인가?
 public class Main {
@@ -27,7 +27,7 @@ public class Main {
 
 
 
-2. **메서드 오버로딩**:
+2.**메서드 오버로딩**:
 ```java
 // 두 메서드가 오버로딩되는 코드를 작성하시오.
 public class Main {
@@ -50,7 +50,7 @@ public class Main {
 
 
 
-3. **추상 클래스**:
+3.**추상 클래스**:
 ```java
 // 추상 클래스를 정의하고 이를 상속하는 클래스를 작성하시오.
 abstract class Shape {
@@ -80,7 +80,7 @@ public class Main {
 
 
 
-4. **인터페이스 상속**:
+4.**인터페이스 상속**:
 ```java
 // 다음 인터페이스를 상속하는 클래스를 작성하시오.
 interface Printable {
@@ -105,7 +105,7 @@ public class Main {
 
 
 
-5. **스레드**:
+5.**스레드**:
 ```java
 // 두 개의 스레드를 생성하여 각각 "Thread 1"과 "Thread 2"를 출력하는 코드를 작성하시오.
 class MyThread extends Thread {
@@ -136,7 +136,7 @@ public class Main {
 
 
 
-1. **INNER JOIN**:
+1.**INNER JOIN**:
 ```sql
 -- Employees 테이블과 Departments 테이블을 INNER JOIN하여 직원의 이름과 부서 이름을 조회하시오.
 SELECT Employees.name, Departments.department_name
@@ -146,7 +146,7 @@ INNER JOIN Departments ON Employees.department_id = Departments.id;
 **풀이**: INNER JOIN을 사용하여 Employees와 Departments 테이블을 연결하고 필요한 열을 조회합니다.
 
 
-2. **LEFT JOIN**:
+2.**LEFT JOIN**:
 ```sql
 -- Employees 테이블과 Departments 테이블을 LEFT JOIN하여 모든 직원과 해당 부서 이름을 조회하시오. 부서가 없는 직원도 포함합니다.
 SELECT Employees.name, Departments.department_name
@@ -156,7 +156,7 @@ LEFT JOIN Departments ON Employees.department_id = Departments.id;
 **풀이**: LEFT JOIN을 사용하여 Employees 테이블의 모든 행과 일치하는 Departments 테이블의 행을 조회합니다. 부서가 없는 직원도 포함됩니다.
 
 
-3. **그룹화와 집계 함수**
+3.**그룹화와 집계 함수**
 ```sql
 -- Employees 테이블에서 부서별 최대 급여를 조회하시오.
 SELECT department, MAX(salary) as max_salary
@@ -166,7 +166,7 @@ GROUP BY department;
 **풀이**: GROUP BY와 MAX 함수를 사용하여 각 부서별 최대 급여를 계산합니다.
 
 
-4. **HAVING 절**:
+4.**HAVING 절**:
 ```sql
 -- Employees 테이블에서 직원이 2명 이상인 부서의 평균 급여를 조회하시오.
 SELECT department, AVG(salary) as avg_salary
@@ -177,7 +177,7 @@ HAVING COUNT(*) >= 2;
 **풀이**: HAVING 절을 사용하여 직원이 2명 이상인 부서만 필터링하여 평균 급여를 계산합니다.
 
 
-5. **서브쿼리와 IN 연산자**:
+5.**서브쿼리와 IN 연산자**:
 ```sql
 -- 급여가 부서 평균 급여보다 높은 직원의 이름과 급여를 조회하시오.
 SELECT name, salary
@@ -196,7 +196,7 @@ WHERE salary > (
 
 
 
-1. **팰린드롬 검사**:
+1.**팰린드롬 검사**:
 ```java
 // 주어진 문자열이 팰린드롬인지 확인하는 함수를 작성하시오.
 public boolean isPalindrome(String s) {
@@ -215,7 +215,7 @@ public boolean isPalindrome(String s) {
 
 
 
-2. **두 배열의 교집합**:
+2.**두 배열의 교집합**:
 ```java
 // 두 배열의 교집합을 반환하는 함수를 작성하시오.
 public int[] intersection(int[] nums1, int[] nums2) {
@@ -241,7 +241,7 @@ public int[] intersection(int[] nums1, int[] nums2) {
 
 
 
-3. **행렬의 회전**:
+3.**행렬의 회전**:
 ```java
 // 주어진 NxN 행렬을 시계방향으로 90도 회전하는 함수를 작성하시오.
 public void rotate(int[][] matrix) {
@@ -261,7 +261,7 @@ public void rotate(int[][] matrix) {
 
 
 
-4. **중복 문자 제거**:
+4.**중복 문자 제거**:
 ```java
 // 주어진 문자열에서 중복 문자를 제거하고, 각 문자가 처음 등장하는 순서대로 나열하는 함수를 작성하시오.
 public String removeDuplicates(String s) {
@@ -279,7 +279,7 @@ public String removeDuplicates(String s) {
 
 
 
-5. **올바른 괄호**:
+5.**올바른 괄호**:
 ```java
 // 주어진 문자열이 올바른 괄호 문자열인지 확인하는 함수를 작성하시오.
 public boolean isValid(String s) {
