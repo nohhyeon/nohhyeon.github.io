@@ -266,7 +266,7 @@ public String removeDuplicates(String s) {
             sb.append(c);
         }
     }
-   
+  }
 ```
 **풀이**: 집합을 사용하여 중복 문자를 필터링하고, 처음 등장하는 순서대로 문자열을 작성합니다.
 
