@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/codingTEST/2024-06-29-codingTest2.md",
+                "file": "_posts/Project/2024-03-25-MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/codingTEST/2024-06-29-codingTest2.md",
+                "file": "_posts/Project/2024-03-25-MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/codingTEST/2024-06-29-codingTest2.md",
+                "file": "_posts/Project/2024-03-25-MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/codingTEST/2024-06-29-codingTest2.md"
+                "file": "_posts/Project/2024-03-25-MVC.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d1c35a90156e7f89",
+  "active": "ae690c34c0dbf4b3",
   "lastOpenFiles": [
-    "_posts/codingTEST/2024-06-28-codingTest1.md",
+    "_posts/Project/2023-11-10-DUI.md",
     "_posts/codingTEST/2024-06-29-codingTest2.md",
+    "_posts/codingTEST/2024-06-28-codingTest1.md",
     "_posts/codingTEST/2024-06-27-codingTest.md",
     "_posts/DB/2024-02-22-oracle.md",
     "_posts/codingTEST/무제 파일 1.md",
@@ -163,7 +164,6 @@
     "images/2024-03-25-MVC/image-20240616204519492.png",
     "images/2024-03-25-MVC/image-20240616204525798.png",
     "images/2024-06-26-codingTest/imagurAPIKey.png",
-    "_posts/Project/2023-11-10-DUI.md",
     "images/2024-03-25-MVC/clip_image002.jpg",
     "images/2024-06-26-codingTest",
     "스크린샷 2024-06-27 오후 8.27.23.png",
