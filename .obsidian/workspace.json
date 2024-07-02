@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Project/2024-03-25-MVC.md",
+                "file": "_posts/ios/2021-03-25-bin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Project/2024-03-25-MVC.md",
+                "file": "_posts/ios/2021-03-25-bin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Project/2024-03-25-MVC.md",
+                "file": "_posts/ios/2021-03-25-bin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Project/2024-03-25-MVC.md"
+                "file": "_posts/ios/2021-03-25-bin.md"
               }
             }
           }
@@ -146,15 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ae690c34c0dbf4b3",
+  "active": "d1c35a90156e7f89",
   "lastOpenFiles": [
+    "_posts/ios/2024-06-26-ios-study1.md",
+    "_posts/ios/2021-03-25-bin.md",
+    "_posts/Project/2024-03-25-MVC.md",
     "_posts/Project/2023-11-10-DUI.md",
     "_posts/codingTEST/2024-06-29-codingTest2.md",
     "_posts/codingTEST/2024-06-28-codingTest1.md",
     "_posts/codingTEST/2024-06-27-codingTest.md",
     "_posts/DB/2024-02-22-oracle.md",
     "_posts/codingTEST/무제 파일 1.md",
-    "_posts/ios/2024-06-26-ios-study1.md",
     "_posts/codingTEST/2024-06-29-codingTest3.md",
     "images/2024-06-26-codingTest/image-2.png",
     "images/2024-06-26-codingTest/image-4.png",
@@ -171,7 +173,6 @@
     "무제 파일.canvas",
     "_posts/Tool/2024-06-17-xcode.md",
     "_posts/codingTEST",
-    "_posts/ios/무제 파일.md",
     "_posts/Info/2024-06-16-first.md",
     "_posts/Tool/2024-06-18-Reactsetting.md",
     "_posts/Tool",
@@ -182,7 +183,6 @@
     "_posts/DB",
     "_posts/Web/2024-05-09-spring1.md",
     "_posts/Web",
-    "_posts/Project/2024-03-25-MVC.md",
     "_posts/Project",
     "_posts/Swift",
     "_posts/ios",
