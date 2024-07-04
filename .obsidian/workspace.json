@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/ios/2021-03-25-bin.md",
+                "file": "_posts/Info/2024-05-24-blog1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/ios/2021-03-25-bin.md",
+                "file": "_posts/Info/2024-05-24-blog1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/ios/2021-03-25-bin.md",
+                "file": "_posts/Info/2024-05-24-blog1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/ios/2021-03-25-bin.md"
+                "file": "_posts/Info/2024-05-24-blog1.md"
               }
             }
           }
@@ -148,7 +148,11 @@
   },
   "active": "d1c35a90156e7f89",
   "lastOpenFiles": [
+    "_posts/Swift/2024-06-22-swift_study3.md",
+    "_posts/ios/무제 파일.md",
     "_posts/ios/2024-06-26-ios-study1.md",
+    "_posts/Swift/2024-06-25-swift-study6.md",
+    "무제 파일.canvas",
     "_posts/ios/2021-03-25-bin.md",
     "_posts/Project/2024-03-25-MVC.md",
     "_posts/Project/2023-11-10-DUI.md",
@@ -170,7 +174,6 @@
     "images/2024-06-26-codingTest",
     "스크린샷 2024-06-27 오후 8.27.23.png",
     "2024-06-27.md",
-    "무제 파일.canvas",
     "_posts/Tool/2024-06-17-xcode.md",
     "_posts/codingTEST",
     "_posts/Info/2024-06-16-first.md",
@@ -187,12 +190,9 @@
     "_posts/Swift",
     "_posts/ios",
     "_posts/Swift/2024-06-14-swift-study0.md",
-    "_posts/Swift/2024-06-25-swift-study6.md",
     "_posts/Swift/2024-06-24-swift_study5.md",
     "_posts/Swift/2024-06-23-swift_study4.md",
-    "_posts/Swift/2024-06-22-swift_study3.md",
     "_posts/Swift/2024-06-21-swift_study2.md",
-    "_posts/Web/2024-06-15-js1.md",
-    "{{.md"
+    "_posts/Web/2024-06-15-js1.md"
   ]
 }
