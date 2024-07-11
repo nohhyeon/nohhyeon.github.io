@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Web/2024-07-11-thymeleaf1.md",
+                "file": "_posts/Web/2024-07-11-spring4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Web/2024-07-11-thymeleaf1.md",
+                "file": "_posts/Web/2024-07-11-spring4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Web/2024-07-11-thymeleaf1.md",
+                "file": "_posts/Web/2024-07-11-spring4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Web/2024-07-11-thymeleaf1.md"
+                "file": "_posts/Web/2024-07-11-spring4.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "d1c35a90156e7f89",
   "lastOpenFiles": [
-    "_posts/Web/2024-07-11-spring4.md",
     "_posts/Web/2024-07-11-thymeleaf1.md",
+    "_posts/Web/2024-07-11-spring4.md",
+    "_posts/Web/무제 폴더",
     "_posts/Web/2024-07-10-query1.md",
     "_posts/Web/2024-07-09-spring3.md",
-    "_posts/Web/무제 폴더",
     "_posts/ios/2024-06-26-ios-study1.md",
     "_posts/Info/2024-05-24-blog1.md",
     "_posts/Info/2024-06-16-first.md",
@@ -193,7 +193,6 @@
     "_posts/Web",
     "_posts/Project",
     "_posts/Swift",
-    "_posts/ios",
-    "_posts/Swift/2024-06-14-swift-study0.md"
+    "_posts/ios"
   ]
 }
