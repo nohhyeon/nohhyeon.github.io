@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Web/2024-07-16-spring5.md",
+                "file": "_posts/Web/2024-07-19-spring6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Web/2024-07-16-spring5.md",
+                "file": "_posts/Web/2024-07-19-spring6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Web/2024-07-16-spring5.md",
+                "file": "_posts/Web/2024-07-19-spring6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Web/2024-07-16-spring5.md"
+                "file": "_posts/Web/2024-07-19-spring6.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "d1c35a90156e7f89",
   "lastOpenFiles": [
-    "_posts/Web/2024-07-11-spring4.md",
     "_posts/Web/2024-07-16-spring5.md",
+    "_posts/Web/2024-07-19-spring6.md",
+    "_posts/Web/2024-07-11-spring4.md",
     "_posts/Web/2024-07-11-thymeleaf1.md",
     "_posts/Web/무제 폴더",
     "_posts/Web/2024-07-10-query1.md",
@@ -190,7 +191,6 @@
     "_posts/Swift/2024-06-20-swift_study1.md",
     "_posts/Web/2024-05-22-spring2.md",
     "_posts/DB",
-    "_posts/Web/2024-05-09-spring1.md",
     "_posts/Web",
     "_posts/Project",
     "_posts/Swift",
