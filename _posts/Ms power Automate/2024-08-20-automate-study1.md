@@ -6,5 +6,3 @@ tags:
   - MS
   - PowerAutomate
 ---
-
-![[화면 캡처 2024-08-20 100836.png]]

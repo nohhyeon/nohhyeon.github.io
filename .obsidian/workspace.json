@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1c35a90156e7f89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Tool/2024-07-20-mdsetting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e093441a8fa7d40f",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,16 +148,16 @@
   },
   "active": "e093441a8fa7d40f",
   "lastOpenFiles": [
+    "_posts/Tool/2024-07-20-mdsetting.md",
+    "_posts/Ms power Automate/2024-08-20-automate-study1.md",
     "images/화면 캡처 2024-08-20 100836.png",
     "_posts/ios/2024-06-26-ios-study1.md",
-    "_posts/Ms power Automate/2024-08-20-automate-study1.md",
     "_posts/Web/2024-07-19-spring6.md",
     "_posts/Ms power Automate",
     "_posts/무제 파일.md",
     "_posts/Web/2024-07-19-spring7.md",
     "_posts/Web/2024-05-22-spring2.md",
     "_posts/Web/2024-05-30-jpa1.md",
-    "_posts/Tool/2024-07-20-mdsetting.md",
     "_posts/Tool/2024-06-18-Reactsetting.md",
     "_posts/Web/2024-05-09-spring1.md",
     "_posts/Web/2024-07-16-spring5.md",
@@ -200,7 +187,6 @@
     "images/2024-06-26-codingTest/imagurAPIKey.png",
     "images/2024-03-25-MVC/clip_image002.jpg",
     "images/2024-06-26-codingTest",
-    "스크린샷 2024-06-27 오후 8.27.23.png",
     "_posts/codingTEST",
     "_posts/Tool",
     "_posts/Info",
