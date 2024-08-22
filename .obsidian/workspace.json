@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Ms power Automate/2024-08-20-automate-study1.md",
+                "file": "_posts/Ms power Automate/2024-08-20-framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Ms power Automate/2024-08-20-automate-study1.md",
+                "file": "_posts/Ms power Automate/2024-08-20-framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Ms power Automate/2024-08-20-automate-study1.md",
+                "file": "_posts/Ms power Automate/2024-08-20-framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Ms power Automate/2024-08-20-automate-study1.md"
+                "file": "_posts/Ms power Automate/2024-08-20-framework.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "e093441a8fa7d40f",
   "lastOpenFiles": [
-    "_posts/Tool/2024-07-20-mdsetting.md",
+    "_posts/Ms power Automate/2024-08-20-framework.md~",
+    "_posts/NeedStudy/2024-08-22-need.md",
+    "_posts/Ms power Automate/2024-08-20-framework.md",
     "_posts/Ms power Automate/2024-08-20-automate-study1.md",
+    "_posts/NeedStudy/2024-08-22-need.md~",
+    "_posts/NeedStudy",
+    "_posts/Tool/2024-07-20-mdsetting.md",
     "images/화면 캡처 2024-08-20 100836.png",
     "_posts/ios/2024-06-26-ios-study1.md",
     "_posts/Web/2024-07-19-spring6.md",
@@ -175,8 +180,6 @@
     "_posts/ios/2021-03-25-bin.md",
     "_posts/Project/2024-03-25-MVC.md",
     "_posts/Project/2023-11-10-DUI.md",
-    "_posts/codingTEST/2024-06-29-codingTest2.md",
-    "_posts/codingTEST/2024-06-28-codingTest1.md",
     "images/2024-06-26-codingTest/image-2.png",
     "images/2024-06-26-codingTest/image-4.png",
     "images/2024-06-26-codingTest/image-3.png",
@@ -191,8 +194,6 @@
     "_posts/Tool",
     "_posts/Info",
     "_posts/DB",
-    "_posts/Web",
-    "_posts/Project",
-    "_posts/Swift"
+    "_posts/Web"
   ]
 }
