@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Ms power Automate/2024-08-26-Transation.md",
+                "file": "_posts/Ms power Automate/2024-08-20-framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Ms power Automate/2024-08-26-Transation.md",
+                "file": "_posts/Ms power Automate/2024-08-20-framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Ms power Automate/2024-08-26-Transation.md",
+                "file": "_posts/Ms power Automate/2024-08-20-framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Ms power Automate/2024-08-26-Transation.md"
+                "file": "_posts/Ms power Automate/2024-08-20-framework.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "e093441a8fa7d40f",
   "lastOpenFiles": [
-    "_posts/Ms power Automate/2024-08-20-framework.md",
-    "_posts/Ms power Automate/2024-08-26-Transation.md",
     "_posts/Ms power Automate/2024-08-26-TestWork.md",
+    "_posts/Ms power Automate/무제 파일.md",
+    "_posts/Ms power Automate/2024-08-26-Transation.md",
+    "_posts/Ms power Automate/2024-08-26-Transation.md~",
+    "_posts/Ms power Automate/2024-08-20-framework.md",
     "_posts/Ms power Automate/2024-08-26-TestWork.md~",
     "_posts/NeedStudy/2024-08-23-Do1.md",
     "_posts/NeedStudy/2024-08-23-Do1.md~",
@@ -182,7 +184,6 @@
     "_posts/ios/무제 파일.md",
     "_posts/Swift/2024-06-25-swift-study6.md",
     "무제 파일.canvas",
-    "_posts/ios/2021-03-25-bin.md",
     "images/2024-06-26-codingTest/image-2.png",
     "images/2024-06-26-codingTest/image-4.png",
     "images/2024-06-26-codingTest/image-3.png",
@@ -193,7 +194,6 @@
     "images/2024-06-26-codingTest/imagurAPIKey.png",
     "images/2024-03-25-MVC/clip_image002.jpg",
     "images/2024-06-26-codingTest",
-    "_posts/codingTEST",
-    "_posts/Tool"
+    "_posts/codingTEST"
   ]
 }
