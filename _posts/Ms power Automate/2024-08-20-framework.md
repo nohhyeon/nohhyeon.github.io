@@ -140,3 +140,5 @@ BRE와 NoRetry를 스스로 구분할 줄 알아야 하는데 모르면 물어�
 방문판매업 신고 상태일 때가 없다 → BRE 에러? → 정의되지 않음 → NoRetry일까? → 성공과 BRE일 때는 성공으로 집계를 하고 예기치 못한 에러와 NoRetry는 실패로 집계를 한다 → BRE로 들어가는데 우리가 잘못됐냐 담당자가 잘못됐냐 이건데 엑셀에 조회 되지 않은 값을 줬으니까.
 stepfinal
 : 엑셀 저장, 메일 발송까지
+
+sdlfkg';sldkfgl;'ksdb,xmc/v.,mb/x.c,vb,.msdflkgl'e;lkrgoweiropgi[posidfgk;'xlkcbx,cvmb,/.mxc.,vsdlfkgl;'e;lrkopisdoigsd;lfkg;sldkf,.xc.,vb.,x/c.v,bm/x.c,vbmxc/.,vgskdflg;'sdfl;gk;dlsf'geortipwe[poritewg.lsdfmgbsmd;flmbsl;fd;lgksd;'fkgle';rlitoweir[potis;fd'lgkls'd;flkxc,vmb/.xmcvb./,xmcv./b,mx/.v,cmbdsgs';fldgks';dlfkg;'erotiwope[rpotiksjdkfl;gskdfjg;lksdjfgklcgvnmxc,.m/n.,m.v,cbn,/.cmvb.,nmc/v.,blfkh';dflgkh;ldf';glkheoritpe[rpotipoi]]]]]
