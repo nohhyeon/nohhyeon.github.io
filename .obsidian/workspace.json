@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Study/2024-11-07-디자인패턴(객체생성).md",
+                "file": "_posts/Study/2024-11-07-디자인패턴(구조).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Study/2024-11-07-디자인패턴(객체생성).md",
+                "file": "_posts/Study/2024-11-07-디자인패턴(구조).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Study/2024-11-07-디자인패턴(객체생성).md",
+                "file": "_posts/Study/2024-11-07-디자인패턴(구조).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Study/2024-11-07-디자인패턴(객체생성).md"
+                "file": "_posts/Study/2024-11-07-디자인패턴(구조).md"
               }
             }
           }
@@ -148,14 +148,18 @@
   },
   "active": "e093441a8fa7d40f",
   "lastOpenFiles": [
-    "_posts/Study/2024-11-07-디자인패턴(객체생성).md~",
-    "_posts/NeedStudy/2024-08-23-Do1.md",
-    "_posts/NeedStudy/2024-11-07-디자인패턴(객체생성).md",
     "_posts/Study/2024-11-07-디자인패턴(객체생성).md",
+    "_posts/Study/2024-11-07-디자인패턴(구조).md",
+    "_posts/Project/2024-03-25-MVC.md",
+    "{{.md",
+    "_posts/Project/2023-11-10-DUI.md",
+    "_posts/NeedStudy/2024-08-23-Do1.md",
+    "_posts/NeedStudy/2024-08-22-need.md",
+    "_posts/Study/2024-11-07-디자인패턴(객체생성).md~",
+    "_posts/NeedStudy/2024-11-07-디자인패턴(객체생성).md",
     "_posts/Study",
     "_posts/DB/2024-02-22-oracle.md",
     "2024-06-27.md",
-    "_posts/NeedStudy/2024-08-22-need.md",
     "_posts/Ms power Automate/2024-09-06-주문내역 연동 자동화(현대그린푸드_R1).md",
     "_posts/Ms power Automate/2024-09-06-주문내역 연동 자동화(현대그린푸드_R1).md~",
     "_posts/Ms power Automate/2024-08-20-framework.md",
@@ -171,7 +175,6 @@
     "_posts/Ms power Automate/2024-08-20-automate-study1.md",
     "_posts/Ms power Automate/2024-08-20-framework.md~",
     "_posts/NeedStudy/2024-08-22-need.md~",
-    "_posts/NeedStudy",
     "_posts/Tool/2024-07-20-mdsetting.md",
     "images/화면 캡처 2024-08-20 100836.png",
     "_posts/ios/2024-06-26-ios-study1.md",
@@ -182,9 +185,6 @@
     "_posts/Web/2024-05-30-jpa1.md",
     "_posts/Tool/2024-06-18-Reactsetting.md",
     "_posts/Web/2024-05-09-spring1.md",
-    "_posts/Web/2024-07-16-spring5.md",
-    "_posts/Web/2024-07-11-spring4.md",
-    "_posts/Web/2024-07-09-spring3.md",
     "무제 파일.canvas",
     "images/2024-06-26-codingTest/image-2.png",
     "images/2024-06-26-codingTest/image-4.png",
