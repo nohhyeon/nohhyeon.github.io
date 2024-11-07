@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Ms power Automate/2024-09-03-예제과제마지막.md",
+                "file": "_posts/Study/2024-11-07-디자인패턴(객체생성).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.51103591918945
+    "width": 316.51103591918945
   },
   "right": {
     "id": "7ab88a2c5e5526a5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Ms power Automate/2024-09-03-예제과제마지막.md",
+                "file": "_posts/Study/2024-11-07-디자인패턴(객체생성).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Ms power Automate/2024-09-03-예제과제마지막.md",
+                "file": "_posts/Study/2024-11-07-디자인패턴(객체생성).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Ms power Automate/2024-09-03-예제과제마지막.md"
+                "file": "_posts/Study/2024-11-07-디자인패턴(객체생성).md"
               }
             }
           }
@@ -148,19 +148,27 @@
   },
   "active": "e093441a8fa7d40f",
   "lastOpenFiles": [
-    "_posts/Ms power Automate/2024-09-03-예제과제마지막.md~",
-    "_posts/Ms power Automate/2024-09-02_날씨, 주식정보 가져오기 설계.md",
-    "_posts/Ms power Automate/2024-09-03-예제과제마지막.md",
-    "_posts/Ms power Automate/2024-09-02-주식정보설계.md~",
-    "_posts/Ms power Automate/2024-08-26-Transation.md",
+    "_posts/Study/2024-11-07-디자인패턴(객체생성).md~",
+    "_posts/NeedStudy/2024-08-23-Do1.md",
+    "_posts/NeedStudy/2024-11-07-디자인패턴(객체생성).md",
+    "_posts/Study/2024-11-07-디자인패턴(객체생성).md",
+    "_posts/Study",
+    "_posts/DB/2024-02-22-oracle.md",
+    "2024-06-27.md",
+    "_posts/NeedStudy/2024-08-22-need.md",
+    "_posts/Ms power Automate/2024-09-06-주문내역 연동 자동화(현대그린푸드_R1).md",
+    "_posts/Ms power Automate/2024-09-06-주문내역 연동 자동화(현대그린푸드_R1).md~",
     "_posts/Ms power Automate/2024-08-20-framework.md",
     "_posts/Ms power Automate/2024-08-26-TestWork.md",
+    "_posts/Ms power Automate/2024-08-26-Transation.md",
+    "_posts/Ms power Automate/2024-09-03-예제과제마지막.md",
+    "_posts/Ms power Automate/2024-09-03-예제과제마지막.md~",
+    "_posts/Ms power Automate/2024-09-02_날씨, 주식정보 가져오기 설계.md",
+    "_posts/Ms power Automate/2024-09-02-주식정보설계.md~",
     "_posts/Ms power Automate/2024-08-26-Transation.md~",
     "_posts/Ms power Automate/2024-08-26-TestWork.md~",
-    "_posts/NeedStudy/2024-08-23-Do1.md",
     "_posts/NeedStudy/2024-08-23-Do1.md~",
     "_posts/Ms power Automate/2024-08-20-automate-study1.md",
-    "_posts/NeedStudy/2024-08-22-need.md",
     "_posts/Ms power Automate/2024-08-20-framework.md~",
     "_posts/NeedStudy/2024-08-22-need.md~",
     "_posts/NeedStudy",
@@ -168,7 +176,6 @@
     "images/화면 캡처 2024-08-20 100836.png",
     "_posts/ios/2024-06-26-ios-study1.md",
     "_posts/Web/2024-07-19-spring6.md",
-    "_posts/Ms power Automate",
     "_posts/무제 파일.md",
     "_posts/Web/2024-07-19-spring7.md",
     "_posts/Web/2024-05-22-spring2.md",
@@ -178,12 +185,6 @@
     "_posts/Web/2024-07-16-spring5.md",
     "_posts/Web/2024-07-11-spring4.md",
     "_posts/Web/2024-07-09-spring3.md",
-    "_posts/Web/2024-07-11-thymeleaf1.md",
-    "_posts/Web/무제 폴더",
-    "_posts/Web/2024-07-10-query1.md",
-    "_posts/Info/2024-05-24-blog1.md",
-    "_posts/Info/2024-06-16-first.md",
-    "_posts/Swift/2024-06-22-swift_study3.md",
     "무제 파일.canvas",
     "images/2024-06-26-codingTest/image-2.png",
     "images/2024-06-26-codingTest/image-4.png",
@@ -193,7 +194,6 @@
     "images/2024-03-25-MVC/image-20240616204519492.png",
     "images/2024-03-25-MVC/image-20240616204525798.png",
     "images/2024-06-26-codingTest/imagurAPIKey.png",
-    "images/2024-03-25-MVC/clip_image002.jpg",
-    "images/2024-06-26-codingTest"
+    "images/2024-03-25-MVC/clip_image002.jpg"
   ]
 }
